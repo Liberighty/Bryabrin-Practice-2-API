@@ -1,0 +1,206 @@
+[
+  {
+    "ContainingType": "GodSimulator.Controllers.DivisionController",
+    "Method": "Get",
+    "RelativePath": "Division",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[GodSimulator.Data.Division, GodSimulator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetDivision"
+  },
+  {
+    "ContainingType": "GodSimulator.Controllers.DivisionController",
+    "Method": "Put",
+    "RelativePath": "Division",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDivision",
+        "Type": "GodSimulator.Models.DivisionAdd",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GodSimulator.Data.Division",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "PutDivision"
+  },
+  {
+    "ContainingType": "GodSimulator.Controllers.DivisionController",
+    "Method": "Delete",
+    "RelativePath": "Division",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "divisionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "DeleteDivision"
+  },
+  {
+    "ContainingType": "GodSimulator.Controllers.ServerUpdateController",
+    "Method": "Get",
+    "RelativePath": "ServerUpdate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[GodSimulator.Data.Update, GodSimulator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWorldUpdate"
+  },
+  {
+    "ContainingType": "GodSimulator.Controllers.ServerUpdateController",
+    "Method": "Put",
+    "RelativePath": "ServerUpdate",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestUpdate",
+        "Type": "GodSimulator.Models.UpdatesAdd",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GodSimulator.Data.Update",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "PutWorldUpdate"
+  },
+  {
+    "ContainingType": "GodSimulator.Controllers.ServerUpdateController",
+    "Method": "Delete",
+    "RelativePath": "ServerUpdate",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "DeleteWorldUpdate"
+  },
+  {
+    "ContainingType": "GodSimulator.Controllers.ServerUpdateController",
+    "Method": "Patch",
+    "RelativePath": "ServerUpdate",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "redactedUpdate",
+        "Type": "GodSimulator.Data.Update",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "PatchWorldUpdate"
+  },
+  {
+    "ContainingType": "GodSimulator.Controllers.ServerUpdateController",
+    "Method": "Get",
+    "RelativePath": "ServerUpdate/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GodSimulator.Data.Update",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "GodSimulator.Controllers.ServerUpdateController",
+    "Method": "Get",
+    "RelativePath": "ServerUpdate/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "descriptionFinder",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "versionFinder",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[GodSimulator.Data.Update, GodSimulator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

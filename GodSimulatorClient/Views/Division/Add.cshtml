@@ -1,0 +1,18 @@
+﻿@model List<GodSimulatorClient.Data.Division>
+@{
+    ViewData["Title"] = "Добавить отдел";
+}
+
+<h2 class="h2">Создать новый отдел</h2>
+
+<form method="post" asp-controller="Division" asp-action="AddDivisions">
+    <div class="mb-3">
+        <label for="Name" class="form-label">Название</label>
+        <input type="text" name="Name" class="form-control" id="Name">
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Создать</button>
+
+    <a href="/Division/action" class="btn btn-danger">Отмена</a>
+</form>

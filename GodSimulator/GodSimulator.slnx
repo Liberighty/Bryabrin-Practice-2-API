@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../GodSimulatorClient/GodSimulatorClient.csproj" />
+  <Project Path="GodSimulator.csproj" />
+</Solution>

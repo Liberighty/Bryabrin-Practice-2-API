@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "GodSimulator.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\GodSimulatorClient\\GodSimulatorClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+﻿@model List<GodSimulatorClient.Data.Division>
+
+@{
+    ViewData["Title"] = "Отделы разработки";
+}
+<div class="mb-3">
+<h4>Отделы</h4>
+    <a href="/Division/add"><button class="btn btn-primary">Новый отдел</button></a>
+</div>
+
+<div class="row">
+<table class="table">
+    <tr>
+        <th>Список отделов компании</th>
+        <th>Действия</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>
+                    <a href="/Division/RemoveDivision/@item.Id">Уволить отдел</a>
+            </td>
+        </tr>
+    }
+
+</table>
+</div>
