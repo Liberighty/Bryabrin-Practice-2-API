@@ -139,7 +139,7 @@
     "Parameters": [
       {
         "Name": "redactedUpdate",
-        "Type": "GodSimulator.Data.Update",
+        "Type": "GodSimulator.Models.UpdateEdit",
         "IsRequired": true
       }
     ],

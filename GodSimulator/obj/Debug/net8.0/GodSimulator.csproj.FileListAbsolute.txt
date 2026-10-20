@@ -137,3 +137,4 @@ C:\Users\gorod\OneDrive\Рабочий стол\Гурин WEB-разработ�
 C:\Users\gorod\OneDrive\Рабочий стол\Гурин WEB-разработка\Bryabrin Practice 2 API\GodSimulator\obj\Debug\net8.0\GodSimulator.pdb
 C:\Users\gorod\OneDrive\Рабочий стол\Гурин WEB-разработка\Bryabrin Practice 2 API\GodSimulator\obj\Debug\net8.0\GodSimulator.genruntimeconfig.cache
 C:\Users\gorod\OneDrive\Рабочий стол\Гурин WEB-разработка\Bryabrin Practice 2 API\GodSimulator\obj\Debug\net8.0\ref\GodSimulator.dll
+C:\Users\gorod\OneDrive\Рабочий стол\Гурин WEB-разработка\Bryabrin Practice 2 API\GodSimulator\obj\Debug\net8.0\GodSimulator.sourcelink.json

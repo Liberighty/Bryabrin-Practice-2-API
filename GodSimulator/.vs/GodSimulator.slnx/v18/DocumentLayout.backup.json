@@ -3,17 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{14D31325-447F-C830-3D03-D4088E0D1890}|..\\GodSimulatorClient\\GodSimulatorClient.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulatorclient\\views\\division\\action.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D31325-447F-C830-3D03-D4088E0D1890}|..\\GodSimulatorClient\\GodSimulatorClient.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulatorclient\\views\\division\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D31325-447F-C830-3D03-D4088E0D1890}|..\\GodSimulatorClient\\GodSimulatorClient.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulatorclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D31325-447F-C830-3D03-D4088E0D1890}|..\\GodSimulatorClient\\GodSimulatorClient.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulatorclient\\views\\home\\action.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulator\\controllers\\serverupdatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|solutionrelative:controllers\\serverupdatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulator\\data\\updateedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|solutionrelative:data\\updateedit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulator\\models\\updatesadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|solutionrelative:models\\updatesadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulator\\data\\divison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|solutionrelative:data\\divison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14D31325-447F-C830-3D03-D4088E0D1890}|..\\GodSimulatorClient\\GodSimulatorClient.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulatorclient\\views\\division\\action.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14D31325-447F-C830-3D03-D4088E0D1890}|..\\GodSimulatorClient\\GodSimulatorClient.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulatorclient\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14D31325-447F-C830-3D03-D4088E0D1890}|..\\GodSimulatorClient\\GodSimulatorClient.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulatorclient\\views\\division\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14D31325-447F-C830-3D03-D4088E0D1890}|..\\GodSimulatorClient\\GodSimulatorClient.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulatorclient\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -37,9 +55,6 @@
       "AbsoluteMoniker": "D:0:0:{14D31325-447F-C830-3D03-D4088E0D1890}|..\\GodSimulatorClient\\GodSimulatorClient.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulatorclient\\data\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14D31325-447F-C830-3D03-D4088E0D1890}|..\\GodSimulatorClient\\GodSimulatorClient.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulatorclient\\views\\home\\action.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulator\\controllers\\divisioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|solutionrelative:controllers\\divisioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -60,22 +75,11 @@
       "RelativeMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|solutionrelative:data\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulator\\controllers\\serverupdatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|solutionrelative:controllers\\serverupdatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulator\\models\\updatesadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|solutionrelative:models\\updatesadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulator\\migrations\\20261016020914_tabledivisionadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{34E3BF72-3AD0-ABEF-5C90-4E557E086872}|GodSimulator.csproj|solutionrelative:migrations\\20261016020914_tabledivisionadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14D31325-447F-C830-3D03-D4088E0D1890}|..\\GodSimulatorClient\\GodSimulatorClient.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulatorclient\\views\\home\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14D31325-447F-C830-3D03-D4088E0D1890}|..\\GodSimulatorClient\\GodSimulatorClient.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulatorclient\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14D31325-447F-C830-3D03-D4088E0D1890}|..\\GodSimulatorClient\\GodSimulatorClient.csproj|c:\\users\\gorod\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0433\u0443\u0440\u0438\u043D web-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\bryabrin practice 2 api\\godsimulatorclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -88,11 +92,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "UpdatesClientService.cs",
               "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Services\\UpdatesClientService.cs",
               "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Services\\UpdatesClientService.cs",
@@ -101,12 +105,11 @@
               "ViewState": "AgIAAGcAAAAAAAAAAAAYwHUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-17T22:17:25.106Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Controllers\\HomeController.cs",
@@ -115,12 +118,11 @@
               "ViewState": "AgIAADMAAAAAAAAAAAAmwEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-16T00:33:00.366Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "DivisionController.cs",
               "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Controllers\\DivisionController.cs",
               "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Controllers\\DivisionController.cs",
@@ -129,94 +131,24 @@
               "ViewState": "AgIAABEAAAAAAAAAAAAwwDUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-18T00:51:05.305Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Update.cs",
-              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Data\\Update.cs",
-              "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Data\\Update.cs",
-              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Data\\Update.cs",
-              "RelativeToolTip": "..\\GodSimulatorClient\\Data\\Update.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T22:32:33.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Division.cs",
-              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Data\\Division.cs",
-              "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Data\\Division.cs",
-              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Data\\Division.cs",
-              "RelativeToolTip": "..\\GodSimulatorClient\\Data\\Division.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T23:23:50.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Update.cs",
-              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Data\\Update.cs",
-              "RelativeDocumentMoniker": "Data\\Update.cs",
-              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Data\\Update.cs",
-              "RelativeToolTip": "Data\\Update.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-18T00:41:55.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Action.cshtml",
-              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Views\\Home\\Action.cshtml",
-              "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Views\\Home\\Action.cshtml",
-              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Views\\Home\\Action.cshtml",
-              "RelativeToolTip": "..\\GodSimulatorClient\\Views\\Home\\Action.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-18T01:48:53.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DivisionController.cs",
-              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Controllers\\DivisionController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DivisionController.cs",
-              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Controllers\\DivisionController.cs",
-              "RelativeToolTip": "Controllers\\DivisionController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAawB0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-17T23:14:54.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Action.cshtml",
               "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Views\\Division\\Action.cshtml",
               "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Views\\Division\\Action.cshtml",
               "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Views\\Division\\Action.cshtml",
               "RelativeToolTip": "..\\GodSimulatorClient\\Views\\Division\\Action.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-18T01:13:31.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "DivisionAdd.cs",
               "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Models\\DivisionAdd.cs",
               "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Models\\DivisionAdd.cs",
@@ -224,12 +156,11 @@
               "RelativeToolTip": "..\\GodSimulatorClient\\Models\\DivisionAdd.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-18T00:42:57.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-18T00:42:57.286Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Views\\Shared\\_Layout.cshtml",
@@ -237,12 +168,11 @@
               "RelativeToolTip": "..\\GodSimulatorClient\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAowA8AAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-18T00:49:58.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-18T00:49:58.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "UpdateClientAdd.cs",
               "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Models\\UpdateClientAdd.cs",
               "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Models\\UpdateClientAdd.cs",
@@ -250,25 +180,24 @@
               "RelativeToolTip": "..\\GodSimulatorClient\\Models\\UpdateClientAdd.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-18T00:05:37.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-18T00:05:37.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Views\\Division\\Add.cshtml",
               "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Views\\Division\\Add.cshtml",
               "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Views\\Division\\Add.cshtml",
               "RelativeToolTip": "..\\GodSimulatorClient\\Views\\Division\\Add.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAIAwwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-18T01:20:02.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Divison.cs",
               "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Data\\Divison.cs",
               "RelativeDocumentMoniker": "Data\\Divison.cs",
@@ -281,72 +210,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DivisonAdd.cs",
-              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Models\\DivisonAdd.cs",
-              "RelativeDocumentMoniker": "Models\\DivisonAdd.cs",
-              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Models\\DivisonAdd.cs",
-              "RelativeToolTip": "Models\\DivisonAdd.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-18T00:43:44.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 4,
               "Title": "ServerUpdateController.cs",
               "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Controllers\\ServerUpdateController.cs",
               "RelativeDocumentMoniker": "Controllers\\ServerUpdateController.cs",
               "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Controllers\\ServerUpdateController.cs",
               "RelativeToolTip": "Controllers\\ServerUpdateController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwFUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwFcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-17T23:15:15.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MyApplicationContext.cs",
-              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Data\\MyApplicationContext.cs",
-              "RelativeDocumentMoniker": "Data\\MyApplicationContext.cs",
-              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Data\\MyApplicationContext.cs",
-              "RelativeToolTip": "Data\\MyApplicationContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Division.cs",
+              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Data\\Division.cs",
+              "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Data\\Division.cs",
+              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Data\\Division.cs",
+              "RelativeToolTip": "..\\GodSimulatorClient\\Data\\Division.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-18T02:31:36.99Z",
+              "WhenOpened": "2026-10-17T23:23:50.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Action.cshtml",
+              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Views\\Home\\Action.cshtml",
+              "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Views\\Home\\Action.cshtml",
+              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Views\\Home\\Action.cshtml",
+              "RelativeToolTip": "..\\GodSimulatorClient\\Views\\Home\\Action.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-18T01:48:53.774Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MyApplicationContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Migrations\\MyApplicationContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Migrations\\MyApplicationContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Migrations\\MyApplicationContextModelSnapshot.cs",
-              "RelativeToolTip": "Migrations\\MyApplicationContextModelSnapshot.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-18T02:29:45.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "..\\GodSimulatorClient\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-18T00:49:48.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
+              "Title": "DivisionController.cs",
+              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Controllers\\DivisionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DivisionController.cs",
+              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Controllers\\DivisionController.cs",
+              "RelativeToolTip": "Controllers\\DivisionController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAawB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T23:14:54.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateEdit.cs",
+              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Data\\UpdateEdit.cs",
+              "RelativeDocumentMoniker": "Data\\UpdateEdit.cs",
+              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Data\\UpdateEdit.cs",
+              "RelativeToolTip": "Data\\UpdateEdit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T07:56:54.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "UpdatesAdd.cs",
               "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Models\\UpdatesAdd.cs",
               "RelativeDocumentMoniker": "Models\\UpdatesAdd.cs",
@@ -360,6 +300,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "Update.cs",
+              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Data\\Update.cs",
+              "RelativeDocumentMoniker": "Data\\Update.cs",
+              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Data\\Update.cs",
+              "RelativeToolTip": "Data\\Update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T00:41:55.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Update.cs",
+              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Data\\Update.cs",
+              "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Data\\Update.cs",
+              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Data\\Update.cs",
+              "RelativeToolTip": "..\\GodSimulatorClient\\Data\\Update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T22:32:33.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DivisonAdd.cs",
+              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Models\\DivisonAdd.cs",
+              "RelativeDocumentMoniker": "Models\\DivisonAdd.cs",
+              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Models\\DivisonAdd.cs",
+              "RelativeToolTip": "Models\\DivisonAdd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T00:43:44.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Data\\MyApplicationContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyApplicationContext.cs",
+              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Data\\MyApplicationContext.cs",
+              "RelativeToolTip": "Data\\MyApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T02:31:36.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MyApplicationContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Migrations\\MyApplicationContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\MyApplicationContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Migrations\\MyApplicationContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\MyApplicationContextModelSnapshot.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T02:29:45.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Add.cshtml",
               "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Views\\Home\\Add.cshtml",
               "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Views\\Home\\Add.cshtml",
@@ -367,12 +367,11 @@
               "RelativeToolTip": "..\\GodSimulatorClient\\Views\\Home\\Add.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-17T23:43:09.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-17T23:43:09.563Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "20261016020914_TableDivisionAdded.cs",
               "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulator\\Migrations\\20261016020914_TableDivisionAdded.cs",
               "RelativeDocumentMoniker": "Migrations\\20261016020914_TableDivisionAdded.cs",
@@ -380,12 +379,11 @@
               "RelativeToolTip": "Migrations\\20261016020914_TableDivisionAdded.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-18T02:18:43.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-18T02:18:43.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gorod\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0413\u0443\u0440\u0438\u043D WEB-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\Bryabrin Practice 2 API\\GodSimulatorClient\\Program.cs",
               "RelativeDocumentMoniker": "..\\GodSimulatorClient\\Program.cs",
@@ -393,8 +391,7 @@
               "RelativeToolTip": "..\\GodSimulatorClient\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T02:41:56.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T02:41:56.101Z"
             }
           ]
         }

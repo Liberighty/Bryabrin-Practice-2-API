@@ -72,7 +72,7 @@ namespace GodSimulator.Controllers
         }
 
         [HttpPatch(Name = "PatchWorldUpdate")]
-        public IActionResult Patch(WorldUpdate redactedUpdate)
+        public IActionResult Patch(UpdateEdit redactedUpdate)
         {
             _logger.LogInformation("Редактирование данных в базе...");
 
